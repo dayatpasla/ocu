@@ -16,7 +16,6 @@ You can use the [editor on GitHub](https://github.com/dayatpasla/ocu/edit/master
 
 Please visit :
 
-```markdown
 _http://sif.uin-suska.ac.id/_
 
 _http://uin-suska.ac.id/_
