@@ -1,11 +1,18 @@
 ## Selamat datang :D
-##Semoga anda selalu sehat
 
 You can use the [editor on GitHub](https://github.com/dayatpasla/ocu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+Tugas Anda kali ini sederhana, cukup buat sebuah GitHub Pages yang menjelaskan Anda adalah Mahasiswa Program Studi Sistem Informasi, Fakultas Sains dan Teknologi, Universitas Islam Negeri Sultan Syarif Kasim, Riau
+
+Penilaian dari tugas ini lebih ke design, penggunaan Jekyll, penggunaan multimedia, dan mobile friendly
+
+Github Page Anda HARUS ada back link ke 
+http://sif.uin-suska.ac.id/
+http://uin-suska.ac.id/
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
