@@ -4,12 +4,11 @@ You can use the [editor on GitHub](https://github.com/dayatpasla/ocu/edit/master
 
 ### Tentang Saya
 
-Nama  : M. Hidayatullah
-NIM   : 11453101577
-Program Studi Sistem Informasi
-Fakultas Sains dan Teknologi
-Universitas Islam Negeri Sultan Syarif Kasim
-Riau
+Nama  : M. Hidayatullah <p>
+NIM   : 11453101577 <p>
+Program Studi Sistem Informasi <p>
+Fakultas Sains dan Teknologi <p>
+Universitas Islam Negeri Sultan Syarif Kasim Riau
 
 Please visit :
 
