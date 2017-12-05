@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/dayatpasla/ocu/edit/master
 
 ### Tentang Saya
 
-**Nama  : M. Hidayatullah
+**Nama  : M. Hidayatullah**
 
-**NIM   : 11453101577
+**NIM   : 11453101577**
 
 **Program Studi Sistem Informasi
 
